@@ -1,0 +1,56 @@
+title: DjangoCon Africa 2020
+email: hello@djangocon.africa
+description: |  
+  DjangoCon Africa 2020 conference will take place in Addis Ababa, Ethiopia
+  from November 9-13, 2020!
+enforce_ssl: "2020.djangocon.africa"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://2020.djangocon.africa" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: djangoconafrica
+logo: /static/images/djcafricalogo.png
+
+# Build settings
+include:
+- _pages
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-feed
+
+
+# Our DjangoCon Africa settings...
+conduct_email: "conduct@djangocon.africa"
+contact_us_email: "hello@djangocon.africa"
+opportunity_grants_email: "grants@djangocon.africa"
+program_team_email: "program@djangocon.africa"
+sponsors_email: "sponsors@djangocon.africa"
+visa_email: "visas@djangocon.africa"
+
+# Our DjangoCon Africa Links
+cfp: ""
+slack: ""
+opportunity_grant_application: ""
+sponsorship_prospectus: ""
+ticket_link: ""
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
