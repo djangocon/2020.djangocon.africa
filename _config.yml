@@ -7,7 +7,7 @@ enforce_ssl: "2020.djangocon.africa"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2020.djangocon.africa" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: djangoconafrica
-logo: /static/images/djcafricalogo.png
+logo: static/images/djcafricalogo.png
 
 # Build settings
 include:
