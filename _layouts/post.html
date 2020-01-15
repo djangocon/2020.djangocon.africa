@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: /news/
 ---
-<p>{{ page.date }} - Written by {{ page.author }}</p>
-
+<time class="headings">{{ page.date | date: "%b %-d, %Y" }}</time>
+<h1>{{ page.title }}</h1>
 {{ content }}
+  
+  

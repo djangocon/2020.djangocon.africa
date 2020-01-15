@@ -1,5 +1,5 @@
 ---
 title: News
-layout: default
+layout: post-list
 permalink: /news/
 ---
