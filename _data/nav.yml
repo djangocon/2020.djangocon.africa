@@ -1,0 +1,14 @@
+- link: /
+  img: static/images/djcafricalogo
+# - link: /about/
+#   name: About
+# - link: /talks/
+#   name: Talks
+# - link: /information/
+#   name: Information
+# - link: /sponsors/
+#   name: Sponsors
+- link: /conduct/
+  name: Code of Conduct
+- link: /news/
+  name: News
