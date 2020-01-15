@@ -3,7 +3,6 @@ title: Code of Conduct
 layout: default
 permalink: /conduct/
 ---
-# DjangoCon Africa Code of Conduct
 Everybody who participates at DjangoCon Africa in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organisers and volunteers.
 
 We will introduce a Code of Conduct team that will be primarily responsible for handling any incidents at the conference. The CoC applies before and throughout the event (including related activities such as social events, and social media).
