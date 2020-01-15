@@ -1,0 +1,25 @@
+  <nav class="navbar fixed-top navbar-expand-lg {% if page.url == '/' %} ftco-navbar-light {% else %} ftco-navbar-light {% endif %} ">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="iconify icon:oi-menu icon-inline:false"></span>
+      </button>
+      {% if page.url == "/" %}
+      <!-- Do nothing here -->
+      {% else %}
+      <a class="navbar-brand" href="/"><img src="/static/images/logo.png" alt="Logo" height="60px"></a>
+      {% endif %}
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav ml-auto">  
+            {% for item in site.data.nav %}
+            {% if page.url == "/" %}
+            <li class="nav-item"><a href="{{ item.link }}" class="nav-link"> {{ item.name }} </a></li>
+            {% else %}
+            <li class="nav-item {% if item.link == page.url %} active {% endif %}">
+              <a href="{{ item.link }}" class="nav-lin"> {{ item.name }} </a></li>
+           {% endif %}
+            {% endfor %}
+        
+        </ul>
+      </div>
+    </div>
+  </nav>
