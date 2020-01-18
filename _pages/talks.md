@@ -29,5 +29,5 @@ Length: 2 - 3 hours
 
 We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level — just be sure to indicate clearly what you expect your students to already know or have experience with.
 
-## Lightning Talks :zap: (November 9th, 10th, & 11th)
+## Lightning Talks (November 9th, 10th, & 11th)
 Not up for a full-on talk or worksop? Looking to give your first talk at a conference? Lightning talks are talks under 5 minutes with or without slides on almost any topic you want! Even if you’re nervous or shy, remember: it’s a maximum of 5 minutes. Sign-ups will happen at the conference.
