@@ -31,3 +31,4 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
 
 ## Lightning Talks (November 9th, 10th, & 11th)
 Not up for a full-on talk or worksop? Looking to give your first talk at a conference? Lightning talks are talks under 5 minutes with or without slides on almost any topic you want! Even if you’re nervous or shy, remember: it’s a maximum of 5 minutes. Sign-ups will happen at the conference.
+
