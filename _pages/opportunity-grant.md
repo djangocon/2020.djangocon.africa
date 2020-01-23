@@ -4,7 +4,7 @@ layout: default
 permalink: /opportunity-grant/
 ---
 
-Opportunity Grant
+Opportunity Grants
 {: .h1}
 
 DjangoCon Africa 2020 offers grants to attendees and speakers, so that those who might otherwise not be able to attend won’t hesitate to participate. Some expenses for the conference attendance (which can include travel, hotel, registration etc.) will be covered for opportunity grant recipients.

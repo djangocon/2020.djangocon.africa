@@ -24,7 +24,8 @@ We’ll choose a selection of talks and tutorials that we feel add up to the mos
 Length: 20-25 minutes or 40-45 minutes
 
 We are looking for original and interesting talks that can benefit the diverse interests of our audience. Don’t feel boxed into Django-centric themes; we also love talks about community, web development, user experience, and more. If you’re a first timer - don’t fret! We would love to be remembered as the conference where you started your speaking career.
-Workshops (November 12th)
+
+## Workshops (November 12th)
 Length: 2 - 3 hours
 
 We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level — just be sure to indicate clearly what you expect your students to already know or have experience with.
