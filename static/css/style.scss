@@ -7276,7 +7276,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #000000; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8193,3 +8193,14 @@ textarea.form-control {
     transition: .3s all ease;
     color: #f1a64e
   }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  
