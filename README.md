@@ -44,7 +44,6 @@ Follow the instructions below to run the website on a local server. GitHub recom
 ## How to install Jekyll
 ```
 $ gem install jekyll bundler
-$ bundle install
 ```
 
 Once you're good there, run the following commands:
