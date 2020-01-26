@@ -5,7 +5,7 @@
 - name: Talks
   link: /talks/
 - name: Information
-  link: #
+  link: /info/
   sublink:
     - name: Accommodation
       link: # 
@@ -21,7 +21,7 @@
     - name: Sponsor us
       link: #
     - name: Our sponsors
-      link: /sponsors/
+      link: /our-sponsors/
 - name: Conduct
   link: /conduct/
 - name: News
