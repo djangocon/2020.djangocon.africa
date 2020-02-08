@@ -1,14 +1,29 @@
-- link: /
-  img: static/images/djcafricalogo
-# - link: /about/
-#   name: About
-# - link: /talks/
-#   name: Talks
-# - link: /information/
-#   name: Information
-# - link: /sponsors/
-#   name: Sponsors
-- link: /conduct/
-  name: Code of Conduct
-- link: /news/
-  name: News
+- img: static/images/djcafricalogo
+  link: /
+- name: About
+  link: /about/
+- name: Talks
+  link: /talks/
+- name: Information
+  link: /info/
+  sublink:
+    - name: Accommodation
+      link: # 
+    - name: Venues
+      link: #
+    - name: Accessibility
+      link: #
+    - name: Opportunity Grants
+      link: /opportunity-grant/
+- name: Sponsors
+  link: /sponsors/
+  sublink:
+    - name: Sponsor us
+      link: #
+    - name: Our sponsors
+      link: /our-sponsors/
+- name: Conduct
+  link: /conduct/
+- name: News
+  link: /news/
+  
