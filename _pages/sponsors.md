@@ -5,6 +5,13 @@ permalink: /sponsors/
 ---
 Sponsors
 {: .h1}
+
+DjangoCon Africa 2020 postponed. [Read more](/news/postponed).
+
+We warmly welcome sponsors to help us in running our 2021 event. 
+
+---
+
 We are only able to run this conference with the support of sponsors that share our goal to create a wonderful, diverse and insightful event. If you are interested in sponsoring DjangoCon Africa 2020, please check out our brochure at the link below for more details.
 
 - [Download Sponsorship Brochure](#)
