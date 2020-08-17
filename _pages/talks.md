@@ -5,6 +5,11 @@ permalink: /talks/
 ---
 Talks
 {: .h1}
+
+DjangoCon Africa 2020 postponed. [Read more](/news/postponed).
+
+---
+
 Our Call for Proposals is not yet open. We will announce when we open our CFP. 
 
 ## Why speak at DjangoCon Africa?

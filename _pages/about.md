@@ -5,6 +5,13 @@ permalink: /about/
 ---
 About
 {: .h1}
+
+DjangoCon Africa 2020 postponed. [Read more](/news/postponed).
+
+
+---
+
+
 DjangoCon Africa will be held in Addis Ababa, Ethiopia for the first time ever and is expected to host over 300+ attendees from all over the world!
 
 ## About the Conference
